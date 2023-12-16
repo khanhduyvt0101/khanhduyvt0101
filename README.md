@@ -3,7 +3,7 @@
 
 <div align="center">
 
-👋 Hello! I'm Khanh Duy, a dedicated Full-Stack Developer 🚀 specializing in Next.JS | React | Mobile App development, with over 4 years of experience. Currently, I freelance from the vibrant city of Ho Chi Minh, VietNam 🇻🇳.
+👋 Hello! I'm Khanh Duy, a dedicated Full-Stack Developer 🚀 specializing in Next.JS | React | Mobile App development, with over 4 years of experience. Currently, I working from the vibrant city of Ho Chi Minh, VietNam 🇻🇳.
 
 Feel free to check my GitHub for past projects and contact me.
 
