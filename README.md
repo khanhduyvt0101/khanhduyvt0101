@@ -1,3 +1,4 @@
+![avatar](https://github.com/khanhduyvt0101/khanhduyvt0101/assets/57395332/287060d9-a0d8-4b61-a06c-c73060cc9ef8)
 👋 Hello! I'm Khanh Duy, a dedicated Full-Stack Developer 🚀 specializing in Next.JS | React | Mobile App development, with over 3 years of experience. Currently, I freelance from the vibrant city of Ho Chi Minh, VietNam 🇻🇳.
 
 📱 Development of iOS & Android Mobile Apps using React Native, Redux, and Expo.
