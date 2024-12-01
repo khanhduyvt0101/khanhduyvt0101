@@ -11,7 +11,7 @@ Feel free to check my GitHub for past projects and contact me.
 
 **Email**: <a href="mailto:khanhduyvt0101gmail.com">khanhduyvt0101gmail.com</a> 📧
 
-**Portfolio**: [khanhduy.site](https://khanhduy.site) 🌍
+**Portfolio**: [khanhduy.com](https://khanhduy.com) 🌍
 
 **Twitter**: [@khanhduyvt](https://twitter.com/khanhduyvt) 🐦
 
